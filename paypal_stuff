@@ -1,1 +1,3 @@
 # Hi from paypal_stuff!
+WHYYYY = 1/1000
+print("Hello" + WHYYYY + "Hello me famous")
